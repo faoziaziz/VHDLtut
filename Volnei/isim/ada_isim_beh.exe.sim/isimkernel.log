@@ -1,0 +1,29 @@
+Command line:
+   ada_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  41879
+
+Thu Mar 29 04:43:03 2018
+
+
+ Elaboration Time: 0.03 sec
+
+ Current Memory Usage: 196.198 Meg
+
+ Total Signals          : 11
+ Total Nets             : 6
+ Total Signal Drivers   : 5
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 4
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 367
+Total Line Count : 11
+
+ Total Simulation Time: 0.17 sec
+
+ Current Memory Usage: 271.7 Meg
+
+Thu Mar 29 04:44:32 2018
+
